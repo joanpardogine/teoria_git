@@ -2,7 +2,26 @@
 .red {color: red}
 </style>
 
+###### Red text title {#identifier .red}
+
 <p class="red">red text</p>
+
+
+```{.red .numberLines startFrom="1"}
+Here is a paragraph.
+
+And another.
+```
+
+::::: {#special .red}
+Here is a paragraph.
+
+And another.
+:::::
+
+
+`red text`{.red}
+
 
 
 <!-- <style>
