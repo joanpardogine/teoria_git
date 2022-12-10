@@ -1,28 +1,10 @@
-<style>
-.red {color: red}
-</style>
+# My GitHub README
 
-###### Red text title {#identifier .red}
+Welcome to my README!
 
-<p class="red">red text</p>
-
-
-```{.red .numberLines startFrom="1"}
-Here is a paragraph.
-
-And another.
-```
-
-::::: {#special .red}
-Here is a paragraph.
-
-And another.
-:::::
-
-
-`red text`{.red}
-
-
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <!-- <style>
   .html,.sintaxi,.htmlLinea,.git { font-family: Lucida Console}
