@@ -1,6 +1,6 @@
 # teoria_git
 
-<style type="text/css">
+
   .html,.sintaxi,.htmlLinea,.git { font-family: Lucida Console;}
   .html {padding: 10px; background-color:#d9d9d9;}
   .git {padding: 10px; background-color:#ccffcc;}
@@ -27,7 +27,7 @@
                     opacity: 0;
                 }
             }
-</style>
+
 
 <!--   https://learngitbranching.js.org  -->
 
