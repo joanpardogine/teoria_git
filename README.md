@@ -1,24 +1,24 @@
 # teoria_git
 
 <style>
-  .html,.sintaxi,.htmlLinea,.git { font-family: Lucida Console;}
-  .html {padding: 10px; background-color:#d9d9d9;}
-  .git {padding: 10px; background-color:#ccffcc;}
+  .html,.sintaxi,.htmlLinea,.git { font-family: Lucida Console}
+  .html {padding: 10px; background-color:#d9d9d9}
+  .git {padding: 10px; background-color:#ccffcc}
 
-  .sintaxi {padding: 5px 3px 3px 40px; background-color:#e6eeff;}
-  .htmlLinea {padding: 5px;}
-  .prompt { font-weight: normal; color: green;}
-  .comentari {font-weight: normal;  color: green;}
-  .sudo { font-weight: normal; color: gray;}
-  .fitxer {font-family: Lucida Console; font-weight: normal; color: #0099ff; background-color: #e6f5ff; font-weight: bold;}
-  .ordre { font-weight: bold; color: #002266;}
-  .ordreLinux { font-weight: bold; color: #808080;}
-  .resposta {font-weight: bold; color: #666666;}
+  .sintaxi {padding: 5px 3px 3px 40px; background-color:#e6eeff}
+  .htmlLinea {padding: 5px}
+  .prompt { font-weight: normal; color: green}
+  .comentari {font-weight: normal;  color: green}
+  .sudo { font-weight: normal; color: gray}
+  .fitxer {font-family: Lucida Console; font-weight: normal; color: #0099ff; background-color: #e6f5ff; font-weight: bold}
+  .ordre { font-weight: bold; color: #002266}
+  .ordreLinux { font-weight: bold; color: #808080}
+  .resposta {font-weight: bold; color: #666666}
   .error {font-weight: bold; color: #ff6666; background-color: #ffe6e6}
-  .parametre {font-weight: bold; color: #0099ff;}
+  .parametre {font-weight: bold; color: #0099ff}
   
-  .commitLinea {padding: 3px; font-weight: bold; background-color: pink;}
-  .cadena {font-weight: bold; color: #999999;}
+  .commitLinea {padding: 3px; font-weight: bold; background-color: pink}
+  .cadena {font-weight: bold; color: #999999}
             .intermitent {
                 animation: blinker 1s linear infinite;
             }
