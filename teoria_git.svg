@@ -32,7 +32,7 @@
             <div class="sintaxi">
                 <span class="prompt">$ </span>
                 <span class="ordre">git commit </span>
-                <span class=" parametre">-m</span>
+                <span class="parametre">-m</span>
                 <span classe="cadena"> "Missatge del commit!"</span>
             </div>
             <br>

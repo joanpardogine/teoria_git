@@ -29,6 +29,10 @@
 
 <!--   https://learngitbranching.js.org  -->
 
+<div align="center">
+    <img src="./teoria_git.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 # Comandos de Git
 Tienes una gran variedad de comandos de git en este sandbox. Estos incluyen:
 
