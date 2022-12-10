@@ -1,6 +1,6 @@
 # teoria_git
 
-
+<style>
   .html,.sintaxi,.htmlLinea,.git { font-family: Lucida Console;}
   .html {padding: 10px; background-color:#d9d9d9;}
   .git {padding: 10px; background-color:#ccffcc;}
@@ -27,30 +27,9 @@
                     opacity: 0;
                 }
             }
-
+</style>
 
 <!--   https://learngitbranching.js.org  -->
-
-***********
-
-Heading Identifiers:
-### Red text title {#identifier .red}
-
-Fenced Code Attributes:
-{.red .numberLines startFrom="1"}
-
-Inline Code Attributes:
-`red text`{.red}
-
-Bracketed Spans:
-[This is *some red text*]{.red}
-
-Link Attributes:
-![alt text](the.jpg){.center}
-
-
-***********
-
 
 # Comandos de Git
 Tienes una gran variedad de comandos de git en este sandbox. Estos incluyen:
